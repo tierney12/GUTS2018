@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\seant\Documents\GUTS 2018\guts-2018-tanks\.metadata\.plugins\org.eclipse.jdt.core
